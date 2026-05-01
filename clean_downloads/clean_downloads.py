@@ -52,7 +52,7 @@ def clean_downloads(downloads_path):
 
 # Запуск
 if __name__ == "__main__":
-    HOME = "D:/!!!/Downloads"  # Смени на свой путь
+    HOME = input("Введите путь папки: ")
     clean_downloads(HOME)
                     
             
