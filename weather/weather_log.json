@@ -1,0 +1,210 @@
+[
+    {
+        "timestamp": "29/04/2026 09:55:02",
+        "data": {
+            "coord": {
+                "lon": 37.6156,
+                "lat": 55.7522
+            },
+            "weather": [
+                {
+                    "id": 600,
+                    "main": "Snow",
+                    "description": "light snow",
+                    "icon": "13d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 1.7,
+                "feels_like": -2.75,
+                "temp_min": 1.24,
+                "temp_max": 1.86,
+                "pressure": 1014,
+                "humidity": 84,
+                "sea_level": 1014,
+                "grnd_level": 994
+            },
+            "visibility": 4963,
+            "wind": {
+                "speed": 4.93,
+                "deg": 316,
+                "gust": 6.76
+            },
+            "snow": {
+                "1h": 0.13
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1777445539,
+            "sys": {
+                "type": 2,
+                "id": 2094500,
+                "country": "RU",
+                "sunrise": 1777427490,
+                "sunset": 1777482126
+            },
+            "timezone": 10800,
+            "id": 524901,
+            "name": "Moscow",
+            "cod": 200
+        }
+    },
+    {
+        "timestamp": "29/04/2026 10:10:06",
+        "data": {
+            "coord": {
+                "lon": 37.6156,
+                "lat": 55.7522
+            },
+            "weather": [
+                {
+                    "id": 600,
+                    "main": "Snow",
+                    "description": "light snow",
+                    "icon": "13d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 1.7,
+                "feels_like": -2.75,
+                "temp_min": 1.29,
+                "temp_max": 2.24,
+                "pressure": 1014,
+                "humidity": 81,
+                "sea_level": 1014,
+                "grnd_level": 994
+            },
+            "visibility": 4963,
+            "wind": {
+                "speed": 4.93,
+                "deg": 316,
+                "gust": 6.76
+            },
+            "snow": {
+                "1h": 0.13
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1777446469,
+            "sys": {
+                "type": 2,
+                "id": 2094500,
+                "country": "RU",
+                "sunrise": 1777427490,
+                "sunset": 1777482126
+            },
+            "timezone": 10800,
+            "id": 524901,
+            "name": "Moscow",
+            "cod": 200
+        }
+    },
+    {
+        "timestamp": "29/04/2026 10:10:08",
+        "data": {
+            "coord": {
+                "lon": 37.6156,
+                "lat": 55.7522
+            },
+            "weather": [
+                {
+                    "id": 600,
+                    "main": "Snow",
+                    "description": "light snow",
+                    "icon": "13d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 1.7,
+                "feels_like": -2.75,
+                "temp_min": 1.29,
+                "temp_max": 2.24,
+                "pressure": 1014,
+                "humidity": 81,
+                "sea_level": 1014,
+                "grnd_level": 994
+            },
+            "visibility": 4963,
+            "wind": {
+                "speed": 4.93,
+                "deg": 316,
+                "gust": 6.76
+            },
+            "snow": {
+                "1h": 0.13
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1777446469,
+            "sys": {
+                "type": 2,
+                "id": 2094500,
+                "country": "RU",
+                "sunrise": 1777427490,
+                "sunset": 1777482126
+            },
+            "timezone": 10800,
+            "id": 524901,
+            "name": "Moscow",
+            "cod": 200
+        }
+    },
+    {
+        "timestamp": "29/04/2026 18:06:36",
+        "data": {
+            "coord": {
+                "lon": 37.6156,
+                "lat": 55.7522
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 1.92,
+                "feels_like": -2.29,
+                "temp_min": 1.86,
+                "temp_max": 3.29,
+                "pressure": 1018,
+                "humidity": 76,
+                "sea_level": 1018,
+                "grnd_level": 999
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 4.59,
+                "deg": 341,
+                "gust": 6.31
+            },
+            "rain": {
+                "1h": 0.12
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1777474469,
+            "sys": {
+                "type": 2,
+                "id": 2094500,
+                "country": "RU",
+                "sunrise": 1777427490,
+                "sunset": 1777482126
+            },
+            "timezone": 10800,
+            "id": 524901,
+            "name": "Moscow",
+            "cod": 200
+        }
+    }
+]
